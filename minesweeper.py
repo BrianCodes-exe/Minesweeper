@@ -9,7 +9,6 @@ from tkinter import *
 from tkinter import messagebox
 from PIL import Image, ImageTk
 import random
-from datetime import time, date, datetime
 
 # Creating a class for the game Minesweeper
 class Minesweeper(Tk):
