@@ -65,7 +65,6 @@ class Minesweeper(Tk):
 	# Initialize variables and create the gameboard tiles
 	def setup_game(self, difficulty):
 		self.correct_flags = 0
-		self.num_flags = 0
 		self.num_clicks = 0
 		self.tile_count = {'beginner': [9, 9, 10],
 						   'intermediate': [16, 16, 40],
@@ -281,9 +280,6 @@ class Minesweeper(Tk):
 
 			if tile['hasMine'] == True:
 				self.correct_flags-=1
-
-	def refresh_flag_label(self):
-		self.flag_label.config(text = f'Flag: {self.num_flags}')
 
 	'''
 		This function will end the game and unbind all buttons. Depending on whether the user has
