@@ -47,10 +47,11 @@ import random
 
 <a name="HelpInstall"></a>
 ## Installing Python
-1. First go to this [link](https://www.python.org/downloads/release/python-382/) to download the Python version used for this program.
+1. First go to this [link](https://www.python.org/downloads/release/python-382/) to download the Python version used for this program. 
+
 *Previous versions of python, such as python v2 may not run the program properly as some functions and syntax used in the program are python v3 specific.*
 
-2. Then, when Python is being install, make sure to check the box where it says **Add to path**. This will make sure the Python interpretor is added to the system path so that you can run the python command on the terminal.
+2. Then, when Python is being installed, make sure to check the box where it says **Add to path**. This will make sure the Python interpretor is added to the system path so that you can run the python command on the terminal.
 
 3. Once, Python is now installed, make sure python is properly installed on your device by typing into your terminal:
 
