@@ -5,16 +5,16 @@
 
 # Table of Contents
 - [About this Project](#About)
- - [Built With](#Builtwith)
+  - [Built With](#Builtwith)
 - [Usage](#Usage)
- - [Help Installing Python](#HelpInstall)
+  - [Help Installing Python](#HelpInstall)
 - [The Game](#Thegame)
- - [Features](#Features)
- - [Algorithms](#Algorithms)
+  - [Features](#Features)
+  - [Algorithms](#Algorithms)
 - [Additional Information](#AddInfo)
- - [Basics of the Game](#Basics)
- - [The Struggles and Issues](#Struggles)
- - [To Do & Add Features](#ToDo)
+  - [Basics of the Game](#Basics)
+  - [The Struggles and Issues](#Struggles)
+  - [To Do & Add Features](#ToDo)
 
 <a name="About"></a>
 # About this Project
